@@ -1,0 +1,29 @@
+D&D:
+1)Creation de perso:
+	Plusieur race:
+		-Personnage.Race.Humain: stats moyenne en tout sauf en magie (---)
+		-Personnage.Race.Elfe: Stats faible sauf en agilité et habilité (tres fort a l'arc et en esquive)
+		-Personnage.Race.Elfe noir: Stats faible sauf en magie (quasi max)
+		-Personnage.Race.Nain: Stats faible sauf en vie/resistance (gros tank)
+
+	Les classes:
+		Humaine:
+			-Personnage.Classe.Chevalier
+			-Personnage.Classe.Paladin
+			-Personnage.Classe.Mage
+			-Invoquateur
+		Personnage.Race.Elfe:
+			-Acher
+			-Personnage.Classe.Eclaireur
+			-Personnage.Classe.Erudit
+		Personnage.Race.Elfe noir:
+			-Personnage.Classe.Mage
+			-Personnage.Classe.Pyromancien
+			-Personnage.Classe.Necromancien
+			-Invocateur
+		Personnage.Race.Nain:
+			-Mineur
+			-Personnage.Classe.Chevalier
+			-Berserker
+		Tous: 
+			-Personnage.Classe.Cursed one: Adept de Cthulu, l'ancien dieu lui a conferer certain de ces pouvoir

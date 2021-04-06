@@ -1,0 +1,20 @@
+{
+    "HUMAIN":{
+        "FORCE":2,
+        "DEXTERITE":1,
+        "CONSTITUTION":2
+    },
+    "ELFE":{
+        "DEXTERITE":2,
+        "INTELLIGENCE":1,
+        "SAGESSE":1
+    },
+    "ELFE NOIR":{
+        "INTELLIGENCE":3,
+        "SAGESSE":2
+    },
+    "NAIN":{
+        "FORCE":1,
+        "CONSTITUTION":3
+    }
+}
